@@ -1,0 +1,407 @@
+{
+	
+  "iron_sword": {
+    "kind": "sword",
+    "atk": 10,
+    "critrate": 5,
+    "critdmg": 20,
+    "durability": 10,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "common",
+    "price": 10,
+    "gacha": true
+  },
+  "wooden_bow": {
+    "kind": "bow",
+    "atk": 8,
+    "critrate": 6,
+    "critdmg": 15,
+    "durability": 8,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "common",
+    "price": 8,
+    "gacha": true
+  },
+  "leather_chestplate": {
+    "kind": "chestplate",
+    "defense": 12,
+    "durability": 10,
+    "type": "armor_chestplate",
+    "buyable": false,
+    "rarity": "common",
+    "price": 10,
+    "gacha": true
+  },
+  "stone_dagger": {
+    "kind": "dagger",
+    "atk": 9,
+    "critrate": 8,
+    "critdmg": 18,
+    "durability": 6,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "common",
+    "price": 10,
+    "gacha": true
+  },
+  "bronze_helmet": {
+    "kind": "helmet",
+    "defense": 8,
+    "durability": 9,
+    "type": "armor_helmet",
+    "buyable": false,
+    "rarity": "common",
+    "price": 10,
+    "gacha": true
+  },
+
+  "bronze_dagger": {
+    "kind": "dagger",
+    "atk": 14,
+    "critrate": 10,
+    "critdmg": 25,
+    "durability": 15,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "uncommon",
+    "price": 15,
+    "gacha": true
+  },
+  "steel_sword": {
+    "kind": "sword",
+    "atk": 16,
+    "critrate": 10,
+    "critdmg": 28,
+    "durability": 20,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "uncommon",
+    "price": 15,
+    "gacha": true
+  },
+  "hunter_bow": {
+    "kind": "bow",
+    "atk": 15,
+    "critrate": 12,
+    "critdmg": 22,
+    "durability": 18,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "uncommon",
+    "price": 15,
+    "gacha": true
+  },
+  "reinforced_chestplate": {
+    "kind": "chestplate",
+    "defense": 30,
+    "durability": 20,
+    "type": "armor_chestplate",
+    "buyable": false,
+    "rarity": "uncommon",
+    "price": 15,
+    "gacha": true
+  },
+  "iron_gauntlets": {
+    "kind": "gauntlet",
+    "defense": 10,
+    "atk": 3,
+    "durability": 15,
+    "type": "armor_gauntlet",
+    "buyable": false,
+    "rarity": "uncommon",
+    "price": 15,
+    "gacha": true
+  },
+
+  "crimson_blade": {
+    "kind": "sword",
+    "atk": 25,
+    "critrate": 15,
+    "critdmg": 35,
+    "durability": 25,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "rare",
+    "price": 20,
+    "gacha": true
+  },
+  "swift_bow": {
+    "kind": "bow",
+    "atk": 22,
+    "critrate": 18,
+    "critdmg": 40,
+    "durability": 20,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "rare",
+    "price": 20,
+    "gacha": true
+  },
+  "guardian_armor": {
+    "kind": "chestplate",
+    "defense": 60,
+    "durability": 25,
+    "type": "armor_chestplate",
+    "buyable": false,
+    "rarity": "rare",
+    "price": 20,
+    "gacha": true
+  },
+  "fang_dagger": {
+    "kind": "dagger",
+    "atk": 23,
+    "critrate": 22,
+    "critdmg": 45,
+    "durability": 18,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "rare",
+    "price": 20,
+    "gacha": true
+  },
+  "shadow_hood": {
+    "kind": "helmet",
+    "defense": 25,
+    "critrate": 10,
+    "durability": 15,
+    "type": "armor_helmet",
+    "buyable": false,
+    "rarity": "rare",
+    "price": 20,
+    "gacha": true
+  },
+
+  "wind_bow": {
+    "kind": "bow",
+    "atk": 35,
+    "critrate": 20,
+    "critdmg": 60,
+    "durability": 30,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "epic",
+    "price": 25,
+    "gacha": true
+  },
+  "storm_sword": {
+    "kind": "sword",
+    "atk": 38,
+    "critrate": 25,
+    "critdmg": 65,
+    "durability": 35,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "epic",
+    "price": 25,
+    "gacha": true
+  },
+  "arcane_staff": {
+    "kind": "staff",
+    "atk": 32,
+    "critrate": 18,
+    "critdmg": 70,
+    "durability": 28,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "epic",
+    "price": 25,
+    "gacha": true
+  },
+  "aegis_armor": {
+    "kind": "chestplate",
+    "defense": 90,
+    "durability": 35,
+    "type": "armor_chestplate",
+    "buyable": false,
+    "rarity": "epic",
+    "price": 25,
+    "gacha": true
+  },
+  "thunder_helm": {
+    "kind": "helmet",
+    "defense": 45,
+    "critrate": 10,
+    "durability": 25,
+    "type": "armor_helmet",
+    "buyable": false,
+    "rarity": "epic",
+    "price": 25,
+    "gacha": true
+  },
+
+  "blessed_codex": {
+    "kind": "codex",
+    "atk": 50,
+    "critrate": 25,
+    "critdmg": 80,
+    "durability": 40,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "legend",
+    "price": 30,
+    "gacha": true
+  },
+  "radiant_blade": {
+    "kind": "sword",
+    "atk": 55,
+    "critrate": 30,
+    "critdmg": 85,
+    "durability": 45,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "legend",
+    "price": 30,
+    "gacha": true
+  },
+  "phoenix_bow": {
+    "kind": "bow",
+    "atk": 50,
+    "critrate": 28,
+    "critdmg": 90,
+    "durability": 40,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "legend",
+    "price": 30,
+    "gacha": true
+  },
+  "divine_armor": {
+    "kind": "chestplate",
+    "defense": 120,
+    "durability": 40,
+    "type": "armor_chestplate",
+    "buyable": false,
+    "rarity": "legend",
+    "price": 30,
+    "gacha": true
+  },
+  "holy_shield": {
+    "kind": "shield",
+    "defense": 90,
+    "critrate": 10,
+    "durability": 35,
+    "type": "armor_shield",
+    "buyable": false,
+    "rarity": "legend",
+    "price": 30,
+    "gacha": true
+  },
+
+  "void_spear": {
+    "kind": "spear",
+    "atk": 70,
+    "critrate": 35,
+    "critdmg": 110,
+    "durability": 45,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "mythic",
+    "price": 35,
+    "gacha": true
+  },
+  "celestial_blade": {
+    "kind": "sword",
+    "atk": 75,
+    "critrate": 40,
+    "critdmg": 120,
+    "durability": 50,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "mythic",
+    "price": 35,
+    "gacha": true
+  },
+  "eternal_staff": {
+    "kind": "staff",
+    "atk": 65,
+    "critrate": 32,
+    "critdmg": 115,
+    "durability": 45,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "mythic",
+    "price": 35,
+    "gacha": true
+  },
+  "draconic_armor": {
+    "kind": "chestplate",
+    "defense": 180,
+    "durability": 50,
+    "type": "armor_chestplate",
+    "buyable": false,
+    "rarity": "mythic",
+    "price": 35,
+    "gacha": true
+  },
+  "crown_of_fate": {
+    "kind": "helmet",
+    "defense": 80,
+    "critrate": 20,
+    "durability": 40,
+    "type": "armor_helmet",
+    "buyable": false,
+    "rarity": "mythic",
+    "price": 35,
+    "gacha": true
+  },
+
+  "cresent_chestplate": {
+    "kind": "chestplate",
+    "defense": 250,
+    "durability": 60,
+    "type": "armor_chestplate",
+    "buyable": false,
+    "rarity": "secret",
+    "price": 50,
+    "gacha": true
+  },
+  "oblivion_edge": {
+    "kind": "sword",
+    "atk": 120,
+    "critrate": 50,
+    "critdmg": 160,
+    "durability": 60,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "secret",
+    "price": 50,
+    "gacha": true
+  },
+  "aether_bow": {
+    "kind": "bow",
+    "atk": 110,
+    "critrate": 45,
+    "critdmg": 150,
+    "durability": 55,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "secret",
+    "price": 50,
+    "gacha": true
+  },
+  "halo_of_truth": {
+    "kind": "helmet",
+    "defense": 100,
+    "critrate": 25,
+    "durability": 50,
+    "type": "armor_helmet",
+    "buyable": false,
+    "rarity": "secret",
+    "price": 50,
+    "gacha": true
+  },
+  "cosmic_staff": {
+    "kind": "staff",
+    "atk": 130,
+    "critrate": 40,
+    "critdmg": 180,
+    "durability": 60,
+    "type": "weapon",
+    "buyable": false,
+    "rarity": "secret",
+    "price": 50,
+    "gacha": true
+  }
+}

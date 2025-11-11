@@ -1,0 +1,9 @@
+{
+    "big":{
+        "min_size_mul":110,
+        "max_size_mul":200
+    },
+    "golden":{
+        "coin_mul":300
+    }
+}

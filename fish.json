@@ -1,0 +1,253 @@
+{
+	"beta": {
+		"species": "beta",
+		"weight_min": 0.0015,
+		"weight_max": 0.0021,
+		"base_price": 5,
+		"rarity": "common"
+	},
+	"guppy": {
+		"species": "guppy",
+		"weight_min": 0.001,
+		"weight_max": 0.002,
+		"base_price": 4,
+		"rarity": "common"
+	},
+	"tetra": {
+		"species": "tetra",
+		"weight_min": 0.002,
+		"weight_max": 0.003,
+		"base_price": 6,
+		"rarity": "common"
+	},
+	"molly": {
+		"species": "molly",
+		"weight_min": 0.0025,
+		"weight_max": 0.0035,
+		"base_price": 7,
+		"rarity": "common"
+	},
+	"goldfish": {
+		"species": "goldfish",
+		"weight_min": 0.05,
+		"weight_max": 0.2,
+		"base_price": 8,
+		"rarity": "common"
+	},
+
+	"koi": {
+		"species": "koi",
+		"weight_min": 0.7,
+		"weight_max": 2.0,
+		"base_price": 150,
+		"rarity": "uncommon"
+	},
+	"tilapia": {
+		"species": "tilapia",
+		"weight_min": 0.4,
+		"weight_max": 1.5,
+		"base_price": 100,
+		"rarity": "uncommon"
+	},
+	"perch": {
+		"species": "perch",
+		"weight_min": 0.3,
+		"weight_max": 1.0,
+		"base_price": 120,
+		"rarity": "uncommon"
+	},
+	"crappie": {
+		"species": "crappie",
+		"weight_min": 0.25,
+		"weight_max": 0.8,
+		"base_price": 110,
+		"rarity": "uncommon"
+	},
+	"carp": {
+		"species": "carp",
+		"weight_min": 1.0,
+		"weight_max": 3.0,
+		"base_price": 160,
+		"rarity": "uncommon"
+	},
+
+	"catfish": {
+		"species": "catfish",
+		"weight_min": 0.5,
+		"weight_max": 1.8,
+		"base_price": 200,
+		"rarity": "rare"
+	},
+	"bass": {
+		"species": "bass",
+		"weight_min": 0.8,
+		"weight_max": 2.5,
+		"base_price": 250,
+		"rarity": "rare"
+	},
+	"salmon": {
+		"species": "salmon",
+		"weight_min": 1.0,
+		"weight_max": 4.0,
+		"base_price": 300,
+		"rarity": "rare"
+	},
+	"pike": {
+		"species": "pike",
+		"weight_min": 2.0,
+		"weight_max": 6.0,
+		"base_price": 320,
+		"rarity": "rare"
+	},
+	"grouper": {
+		"species": "grouper",
+		"weight_min": 3.0,
+		"weight_max": 8.0,
+		"base_price": 350,
+		"rarity": "rare"
+	},
+
+	"arowana": {
+		"species": "arowana",
+		"weight_min": 1.0,
+		"weight_max": 3.5,
+		"base_price": 500,
+		"rarity": "epic"
+	},
+	"eel": {
+		"species": "eel",
+		"weight_min": 0.5,
+		"weight_max": 2.5,
+		"base_price": 550,
+		"rarity": "epic"
+	},
+	"lionfish": {
+		"species": "lionfish",
+		"weight_min": 0.3,
+		"weight_max": 1.0,
+		"base_price": 600,
+		"rarity": "epic"
+	},
+	"manta_ray": {
+		"species": "manta_ray",
+		"weight_min": 25.0,
+		"weight_max": 80.0,
+		"base_price": 900,
+		"rarity": "epic"
+	},
+	"snapper": {
+		"species": "snapper",
+		"weight_min": 2.0,
+		"weight_max": 6.0,
+		"base_price": 700,
+		"rarity": "epic"
+	},
+
+	"sturgeon": {
+		"species": "sturgeon",
+		"weight_min": 5.0,
+		"weight_max": 12.0,
+		"base_price": 1200,
+		"rarity": "legend"
+	},
+	"tuna": {
+		"species": "tuna",
+		"weight_min": 40.0,
+		"weight_max": 300.0,
+		"base_price": 1500,
+		"rarity": "legend"
+	},
+	"marlin": {
+		"species": "marlin",
+		"weight_min": 70.0,
+		"weight_max": 500.0,
+		"base_price": 2000,
+		"rarity": "legend"
+	},
+	"halibut": {
+		"species": "halibut",
+		"weight_min": 20.0,
+		"weight_max": 200.0,
+		"base_price": 1700,
+		"rarity": "legend"
+	},
+	"barracuda": {
+		"species": "barracuda",
+		"weight_min": 10.0,
+		"weight_max": 25.0,
+		"base_price": 1300,
+		"rarity": "legend"
+	},
+
+	"coelacanth": {
+		"species": "coelacanth",
+		"weight_min": 20.0,
+		"weight_max": 80.0,
+		"base_price": 10000,
+		"rarity": "mythic"
+	},
+	"megalodon": {
+		"species": "megalodon",
+		"weight_min": 10000.0,
+		"weight_max": 50000.0,
+		"base_price": 25000,
+		"rarity": "mythic"
+	},
+	"kraken": {
+		"species": "kraken",
+		"weight_min": 5000.0,
+		"weight_max": 20000.0,
+		"base_price": 30000,
+		"rarity": "mythic"
+	},
+	"leviathan_young": {
+		"species": "leviathan_young",
+		"weight_min": 1000.0,
+		"weight_max": 5000.0,
+		"base_price": 20000,
+		"rarity": "mythic"
+	},
+	"titan_ray": {
+		"species": "titan_ray",
+		"weight_min": 300.0,
+		"weight_max": 1000.0,
+		"base_price": 18000,
+		"rarity": "mythic"
+	},
+
+	"leviathan": {
+		"species": "leviathan",
+		"weight_min": 500.0,
+		"weight_max": 2000.0,
+		"base_price": 100000,
+		"rarity": "secret"
+	},
+	"voidfish": {
+		"species": "voidfish",
+		"weight_min": 0.0,
+		"weight_max": 9999999.0,
+		"base_price": 999999,
+		"rarity": "secret"
+	},
+	"astral_serpent": {
+		"species": "astral_serpent",
+		"weight_min": 10000.0,
+		"weight_max": 200000.0,
+		"base_price": 500000,
+		"rarity": "secret"
+	},
+	"cosmic_whale": {
+		"species": "cosmic_whale",
+		"weight_min": 100000.0,
+		"weight_max": 1000000.0,
+		"base_price": 750000,
+		"rarity": "secret"
+	},
+	"abyssal_drake": {
+		"species": "abyssal_drake",
+		"weight_min": 50000.0,
+		"weight_max": 300000.0,
+		"base_price": 600000,
+		"rarity": "secret"
+	}
+}

@@ -1,0 +1,21 @@
+{
+    "a": {
+        "health": 100,
+        "defense": 0,
+        "atk": 20,
+        "level": 1,
+        "exp": 0,
+        "luck": 0,
+        "coins": 0,
+        "critrate": 0,
+        "critdmg": 0,
+        "equipment": {
+            "weapon": null,
+            "armor_helmet": null,
+            "armor_chestplate": null,
+            "armor_leggings": null,
+            "armor_boots": null
+        },
+        "inventory": {}
+    }
+}

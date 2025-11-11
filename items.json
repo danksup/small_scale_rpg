@@ -1,0 +1,45 @@
+{
+ "banana": {
+    "heal": 12,
+    "type": "food",
+    "buyable_with": ["coin"],
+    "rarity": "common",
+    "price": 0,
+    "gacha": false
+
+
+  },
+  "steak": {
+    "atk": 12,
+    "type": "food",
+    "buyable_with": ["coin"],
+    "rarity": "common",
+    "price": 4,
+    "gacha": false
+
+
+  },
+  "apple": {
+    "defense": 12,
+    "type": "food",
+    "buyable_with": ["coin"],
+    "rarity": "common",
+    "price": 0,
+    "gacha": false
+
+
+  },
+  "double_steak": {
+    "defense": 12,
+    "health": 50,
+    "atk": 10,
+    "critrate": 20,
+    "critdmg": 30,
+    "type": "food",
+    "buyable_with": [],
+    "rarity": "rare",
+    "price": 0,
+    "gacha": false
+
+  }
+}
