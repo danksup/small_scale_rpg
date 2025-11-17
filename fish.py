@@ -113,6 +113,9 @@ class Fish:
 				big_mutation = mutation_data['big']
 				weight_mul =  random.uniform(big_mutation['min_size_mul'], big_mutation['max_size_mul'])
 				fish_weight = fish_weight_max *( weight_mul/100)
+			elif chosen_mutation == "overgrown": #mutation big will make the fish to be its maximum size
+				overgrown_mutation = mutation_data['overgrown']
+				fish_weight = fish_weight_max * ( overgrown_mutation['size_mul'] / 100)
 		else:
 			chosen_mutation = None
 	

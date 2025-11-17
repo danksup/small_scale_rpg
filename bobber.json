@@ -1,0 +1,20 @@
+{
+    "plastic_bobber":{
+        "price":"100",
+        "rarity":"common",
+        "sellable": [],
+        "fishing_luck":10,
+        "type": "fishing_bobber",
+        "buyable": false,
+        "gacha": false
+    },
+    "element_bobber":{
+        "price":"800000",
+        "rarity":"mythic",
+        "sellable": [],
+        "fishing_luck":5000,
+        "type": "fishing_bobber",
+        "buyable": false,
+        "gacha": false
+    }
+}

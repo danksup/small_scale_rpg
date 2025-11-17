@@ -5,5 +5,8 @@
     },
     "golden":{
         "coin_mul":300
+    },
+    "overgrown":{
+        "size_mul":300
     }
 }

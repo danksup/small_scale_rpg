@@ -2,13 +2,25 @@ import json
 
 with open("equippable.json", "r") as f:
 	equippable_data = json.load(f)
+with open("fishing_rod.json", "r") as f:
+	rod_data = json.load(f)
+with open("bobber.json", "r") as f:
+	bobber_data = json.load(f)
 
 class Equippable:
 	def __init__(self,name):
 		self._name = name
 		selfnameneg9 = self._name[:-9]
-		for key in equippable_data[selfnameneg9]:
-			setattr(self, key, equippable_data[selfnameneg9][key])
+		if selfnameneg9 in equippable_data and  selfnameneg9 not in rod_data:
+			for key in equippable_data[selfnameneg9]:
+				setattr(self, key, equippable_data[selfnameneg9][key])
+		else:
+			if name in rod_data:
+				for key in rod_data[name]:
+					setattr(self, key, rod_data[name][key])
+			elif name in bobber_data:
+				for key in bobber_data[name]:
+					setattr(self, key, bobber_data[name][key])
 
 	@property
 	def name(self):
@@ -58,3 +70,17 @@ class Equippable:
 	@health.setter
 	def health(self, health):
 		self._health = health
+
+	@property
+	def fishing_speed(self):
+		return self._fishing_speed
+	@fishing_speed.setter
+	def fishing_speed(self,fishing_speed):
+		self._fishing_speed = fishing_speed
+	
+	@property
+	def reeling_speed(self):
+		return self._reeling_speed
+	@reeling_speed.setter
+	def reeling_speed(self,reeling_speed):
+		self._reeling_speed = reeling_speed

@@ -1,0 +1,29 @@
+{
+  "carbon_rod": {
+    "item_type": "eqippable",
+    "sellable": [],
+    "max_weight": 10,
+    "fishing_luck": 50,
+    "fishing_speed":1,
+    "reeling_speed":1,
+    "type": "fishing_rod",
+    "buyable": false,
+    "rarity": "common",
+    "price": 150,
+    "gacha": false
+  },
+
+   "element_rod": {
+    "item_type": "eqippable",
+    "sellable": [],
+    "max_weight": 100000,
+    "fishing_luck": 5000,
+    "fishing_speed":10,
+    "reeling_speed":10,
+    "type": "fishing_rod",
+    "buyable": false,
+    "rarity": "secret",
+    "price": 2000000,
+    "gacha": false
+  }
+}
