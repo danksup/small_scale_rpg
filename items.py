@@ -7,8 +7,7 @@ items_attr = {
 	'fishing_rod': [],
 	'equippable': [],
 	'bobber': [],
-	'items': [],
-	'test': ['ayam', 'bau', 'goreng'],
+	'items': []
 }
 def push():
 	category = input("category: ")
