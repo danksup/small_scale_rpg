@@ -1,17 +1,6 @@
 import json
 import ast
 
-# with open("items.json", "r") as f:
-# 	items_data = json.load(f)
-# with open("equippable.json", "r") as f:
-# 	equippable_data = json.load(f)
-# with open("fish.json", "r") as f:
-# 	fish_data = json.load(f)
-# with open("fishing_rod.json", "r") as f:
-# 	rod_data = json.load(f)
-# with open("bobber.json", "r") as f:
-# 	bobber_data = json.load(f)
-
 items_attr = {
 	'fish': ["species", "weight_min", "weight_max", "base_price", "sellable", "rarity"],
 	'mutation': [],
